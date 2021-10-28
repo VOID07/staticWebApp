@@ -1,6 +1,7 @@
 (() => {
   "use strict";
-  const n = "https://rickandmortyapi.com/api/character/",
+  const n = "https://rickandmortyapi.com/api/character/",}
+ 
     a = async (a) => {
       const e = a ? `${n}${a}` : n;
       try {
